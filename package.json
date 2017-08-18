@@ -1,0 +1,32 @@
+{
+  "name": "dnd-site-builder",
+  "version": "1.0.0",
+  "description": "drag n drop site builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGazsi/dnd-site-builder.git"
+  },
+  "author": "BGazsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BGazsi/dnd-site-builder/issues"
+  },
+  "homepage": "https://github.com/BGazsi/dnd-site-builder#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-file-include": "^1.1.0",
+    "gulp-less": "^3.3.2",
+    "gulp-watch": "^4.3.11",
+    "path": "^0.12.7"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
